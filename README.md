@@ -1,2 +1,2 @@
 # propagander
-gatsb
+gatsby
